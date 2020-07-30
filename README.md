@@ -22,6 +22,8 @@ Delay between clicks is set to 10 ms by default
 
 To change delay, open in Xcode and recompile (Variable is called "UI_DELAY_BETWEEN_CLICKS_MS")
 
+Auto Clicker is in zip file, because trying to download it as a Unix Executable results in a plain document. 
+
 **--NOTES--**
 
 
